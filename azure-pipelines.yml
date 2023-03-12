@@ -2,4 +2,4 @@ schedules:
   - cron: ""0 0 * * *"""
 branches:
   include:
-  -main 
+  -main
